@@ -1,3 +1,3 @@
-# Contador con React
+# Contador 
 
-Aplicacion desarrollada con React, como practica de conocimientos y jugar para mejorar CSS
+Aplicacion desarrollada con React
